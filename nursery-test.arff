@@ -1,0 +1,14 @@
+unusual, proper, complete, 1, convenient, convenient, nonprob, recommended, priority
+usual, proper, complete, 1, critical, inconv, problematic, recommended, priority
+usual, proper, complete, more, convenient, inconv, problematic, priority, priority
+usual, proper, completed, 2, less_conv, inconv, slightly_prob, not_recom, not_recom
+usual, less_proper, incomplete, 1, convenient, convenient, problematic, not_recom, not_recom
+usual, improper, foster, 1, less_conv, convenient, problematic, not_recom, not_recom
+usual, very_crit, completed, more, critical, inconv, nonprob, priority, spec_prior
+pretentious, less_proper, completed, 3, critical, inconv, slightly_prob, recommended, priority
+pretentious, improper, complete, more, less_conv, convenient, problematic, not_recom, not_recom
+pretentious, critical, foster, 1, convenient, convenient, slightly_prob, recommended, priority
+great_pret, proper, complete, 2, less_conv, inconv, nonprob, not_recom, not_recom
+great_pret, less_proper, completed, more, less_conv, convenient, problematic, recommended, spec_prior
+great_pret, improper, foster, 2, less_conv, inconv, problematic, not_recom, not_recom
+great_pret, critical, incomplete, more, less_conv, convenient, nonprob, recommended, spec_prior
